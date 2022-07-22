@@ -12,7 +12,8 @@ All data is sent as JSON.
 - Spring Data JPA
 - H2 In Memory Database
 - Lombok Java Library(Imported Via Spring Boot Dev Tools)
-
+- Java Validation Library
+- Swagger UI For Documentation
 ## *Tables Created*
 
 ### ***Categories Table***<br>
@@ -54,3 +55,5 @@ All data is sent as JSON.
 | 134686800   | ADITYA   | Junior Developer |
 | 134685790   | SANGARAK | Product Manager  |
 | 134696424   | KRISHNA  | Senior Developer |
+
+-
