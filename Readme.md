@@ -11,7 +11,8 @@ All data is sent as JSON.
 - Spring Boot 2.6.9
 - Spring Data JPA
 - H2 In Memory Database
-- Lombok Java Library(Imported Via Spring Boot Dev Tools)
+- Lombok Java Library 
+- Spring Boot Dev Tools 
 - Java Validation Library
 - Swagger UI For Documentation
 ## *Tables Created*
